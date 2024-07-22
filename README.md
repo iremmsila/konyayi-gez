@@ -1,5 +1,7 @@
 bu benim ilk mobil uygulamam.
 
+
+
 ![Screenshot_1721611015](https://github.com/user-attachments/assets/8950935b-f1fb-4356-a63d-aecd6b9c47b6)
 
 
