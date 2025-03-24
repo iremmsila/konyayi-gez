@@ -1,4 +1,3 @@
-bu benim ilk mobil uygulamam.
 
 
 
